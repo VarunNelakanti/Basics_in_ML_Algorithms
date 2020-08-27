@@ -3,3 +3,5 @@ A collection of jupyter notebooks for some basic ML algorithms implemented entir
 Algorithms implemented so far:
 
 1) Linear Regression
+2) K Nearest Neighbour
+3) Support Vector Machine
